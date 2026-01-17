@@ -13,6 +13,7 @@ A curated list of MCP (Model Context Protocol) servers for e-commerce, retail, a
 - [Store Platforms](#store-platforms)
 - [Payments](#payments)
 - [Marketplaces](#marketplaces)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -37,6 +38,18 @@ A curated list of MCP (Model Context Protocol) servers for e-commerce, retail, a
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Airbnb MCP](https://github.com/openbnb-org/mcp-server-airbnb) | Search Airbnb listings | Free | ![GitHub stars](https://img.shields.io/github/stars/openbnb-org/mcp-server-airbnb?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Shopping & Wishlists
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) | Universal wishlist for AI shopping | Free | ![stars](https://img.shields.io/github/stars/wishfinity/wishfinity-mcp-plusw?style=flat) | *[@leebellon](https://github.com/leebellon)* |
 
 ---
 
