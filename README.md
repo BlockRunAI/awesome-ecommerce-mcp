@@ -12,6 +12,7 @@ A curated list of MCP (Model Context Protocol) servers for e-commerce, retail, a
 
 - [Store Platforms](#store-platforms)
 - [Payments](#payments)
+- [Marketplaces](#marketplaces)
 
 ---
 
@@ -28,6 +29,14 @@ A curated list of MCP (Model Context Protocol) servers for e-commerce, retail, a
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Stripe MCP](https://github.com/stripe/agent-toolkit) | Stripe payments and billing | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/stripe/agent-toolkit?style=flat) |
+
+---
+
+## Marketplaces
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Airbnb MCP](https://github.com/openbnb-org/mcp-server-airbnb) | Search Airbnb listings | Free | ![GitHub stars](https://img.shields.io/github/stars/openbnb-org/mcp-server-airbnb?style=flat) |
 
 ---
 
