@@ -21,7 +21,6 @@ A curated list of MCP (Model Context Protocol) servers for e-commerce, retail, a
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [Shopify MCP](https://github.com/shopify/dev-mcp) | Official Shopify development tools | Requires account | ![GitHub stars](https://img.shields.io/github/stars/shopify/dev-mcp?style=flat) |
 | [Shopify MCP](https://github.com/GeLi2001/shopify-mcp) | Shopify GraphQL API - products, orders, customers | Requires account | ![GitHub stars](https://img.shields.io/github/stars/GeLi2001/shopify-mcp?style=flat) |
 | [WooCommerce MCP](https://github.com/techspawn/woocommerce-mcp-server) | WooCommerce via WordPress REST API | Free | ![GitHub stars](https://img.shields.io/github/stars/techspawn/woocommerce-mcp-server?style=flat) |
 | [Magento 2 MCP](https://github.com/boldcommerce/magento2-mcp) | Magento 2 REST API integration | Free | ![GitHub stars](https://img.shields.io/github/stars/boldcommerce/magento2-mcp?style=flat) |
